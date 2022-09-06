@@ -9,11 +9,11 @@
 
 ## Environment Variables
 
-To run this project, you will need to say the following
+To run this project Faster you will need to say the following
 
-`API_KEY`
-
-`ANOTHER_API_KEY`
+`DEBUG`
+### Or
+`dev`
 
 
 ## Demo
